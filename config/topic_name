@@ -1,0 +1,5 @@
+cloud      /kitti/velo/pointcloud
+imu        /kitti/oxts/imu
+velodyne   /kitti/oxts/gps/vel
+GNSS       /kitti/oxts/gps/fix
+
