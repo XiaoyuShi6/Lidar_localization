@@ -1,0 +1,9 @@
+Log file created at: 2020/10/25 22:23:31
+Running on machine: sxypc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1025 22:23:31.362486 10369 matching.cpp:87] load global map size:633171
+I1025 22:23:31.408550 10369 matching.cpp:90] filtered global map size:627774
+I1025 22:23:31.462824 10369 matching.cpp:108] new local map:-150,150,-150,150,-150,150
+
+I1025 22:23:40.154635 10369 matching.cpp:108] new local map:-120.862,179.138,-93.0384,206.962,-148.96,151.04
+

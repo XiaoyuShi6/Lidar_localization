@@ -1,0 +1,3 @@
+after optimize:
+    currentcloud:"/current_scan"
+    currentpose:"/optimized_odom"

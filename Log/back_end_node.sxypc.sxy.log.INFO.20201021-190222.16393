@@ -1,0 +1,10 @@
+Log file created at: 2020/10/21 19:02:22
+Running on machine: sxypc
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I1021 19:02:22.824402 16393 g2o_graph_optimizer.cpp:41] 
+------ 完成第 1 次后端优化 -------
+顶点数：950, 边数： 1905
+迭代次数： 10/512
+用时：0.0900813
+优化前后误差变化：97684.7--->6.19574
+
